@@ -2,10 +2,10 @@
 	- x build basic React site
 		- x create-react-app
 		- x use Vite
-	- .. look at all files
-	- ..  minimize the site
-		- .. install Sass
-	- copy .json text of techbooks to data/techbooks.json
+	- x look at all files
+	- x  minimize the site
+		- x install Sass
+	- .. copy .json text of techbooks to data/techbooks.json
 	- App.jsx
 		- show all techbook titles
 		- show all with styles
