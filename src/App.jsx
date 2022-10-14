@@ -10,7 +10,7 @@ function App() {
 			<h1>{techbooks.length} Tech Books</h1>
 			<div className="books">
 				{techbooks.map((techbook) => {
-					return <Techbook />;
+					return <Techbook techbook={techbook} />;
 				})}
 			</div>
 		</div>
