@@ -7,7 +7,11 @@ function App() {
 	return (
 		<div className="App">
       <h1>{techbooks.length} Tech Books</h1>
-			<p>test</p>
+      {techbooks.map(techbook => {
+        return (
+          <div>{techbook.title}</div>
+        )
+      })}
 		</div>
 	);
 }
