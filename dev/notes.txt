@@ -5,8 +5,8 @@
 	- x look at all files
 	- x  minimize the site
 		- x install Sass
-	- .. copy .json text of techbooks to data/techbooks.json
-	- App.jsx
-		- show all techbook titles
-		- show all with styles
-	- put techbook in a component
+	- x copy .json text of techbooks to data/techbooks.json
+	- x App.jsx
+		- x show all techbook titles
+		- x show all with styles
+	- .. put techbook in a component
